@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "I Can't Believe That You're In Love With Me (1999 Remastered)",
+  "base_artist": "Frank Sinatra",
+  "createdAt": "2026-02-23T13:28:18.745222Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Can't Believe That You're in Love With Me",
+      "artist": "Diane Schuur",
+      "has_synced": false,
+      "path": "select/01_I_Can't_Believe_That_You're_in_Love_With_Me_Diane_Schuur.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Can't Believe That You're In Love with Me",
+      "artist": "Charlie Parker",
+      "has_synced": false,
+      "path": "select/02_I_Can't_Believe_That_You're_In_Love_with_Me_Charlie_Parker.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Can't Believe That You're In Love With Me",
+      "artist": "Johnny Mathis",
+      "has_synced": false,
+      "path": "select/03_I_Can't_Believe_That_You're_In_Love_With_Me_Johnny_Mathis.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Can’t Believe That You’re in Love With Me",
+      "artist": "Tony Bennett",
+      "has_synced": false,
+      "path": "select/04_I_Can’t_Believe_That_You’re_in_Love_With_Me_Tony_Bennett.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Can't Believe That You're In Love With Me",
+      "artist": "Frank Sinatra",
+      "has_synced": true,
+      "path": "select/05_I_Can't_Believe_That_You're_In_Love_With_Me_Frank_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Can't Believe That You're In Love With Me",
+      "artist": "Billie Holiday",
+      "has_synced": false,
+      "path": "select/06_I_Can't_Believe_That_You're_In_Love_With_Me_Billie_Holiday.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Can't Believe That You're in Love With Me",
+      "artist": "Django Reinhardt",
+      "has_synced": false,
+      "path": "select/07_I_Can't_Believe_That_You're_in_Love_With_Me_Django_Reinhardt.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Can't Believe That You're in Love With Me",
+      "artist": "Tony Bennett",
+      "has_synced": false,
+      "path": "select/08_I_Can't_Believe_That_You're_in_Love_With_Me_Tony_Bennett.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Can't Believe That You're in Love With Me",
+      "artist": "Art Pepper",
+      "has_synced": false,
+      "path": "select/09_I_Can't_Believe_That_You're_in_Love_With_Me_Art_Pepper.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Can't Believe That You're in Love with Me",
+      "artist": "Duke Ellington",
+      "has_synced": false,
+      "path": "select/10_I_Can't_Believe_That_You're_in_Love_with_Me_Duke_Ellington.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Can't Believe That You're in Love with Me",
+      "artist": "Mel Tormé",
+      "has_synced": false,
+      "path": "select/11_I_Can't_Believe_That_You're_in_Love_with_Me_Mel_Tormé.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Can’t Believe That You’re in Love With Me",
+      "artist": "Billie Holiday",
+      "has_synced": false,
+      "path": "select/12_I_Can’t_Believe_That_You’re_in_Love_With_Me_Billie_Holiday.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Can't Believe That You're In Love With Me",
+      "artist": "Count Basie",
+      "has_synced": false,
+      "path": "select/13_I_Can't_Believe_That_You're_In_Love_With_Me_Count_Basie.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Can't Believe That You're In Love With Me",
+      "artist": "Basie, Count",
+      "has_synced": false,
+      "path": "select/14_I_Can't_Believe_That_You're_In_Love_With_Me_Basie,_Count.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Can't Believe That You're in Love With Me",
+      "artist": "Anita O'Day",
+      "has_synced": true,
+      "path": "select/15_I_Can't_Believe_That_You're_in_Love_With_Me_Anita_O'Day.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Can't Believe That You're In Love With Me",
+      "artist": "Pearl Django",
+      "has_synced": false,
+      "path": "select/16_I_Can't_Believe_That_You're_In_Love_With_Me_Pearl_Django.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I Can't Believe That You'Re In Love With Me",
+      "artist": "Frank Sinatra",
+      "has_synced": false,
+      "path": "select/pl_01_I_Can't_Believe_That_You'Re_In_Love_With_Me_Frank_Sinatra.txt"
+    }
+  ]
+}
